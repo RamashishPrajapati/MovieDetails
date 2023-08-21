@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="imdid">IMDID</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_date">Release Date :</string>
+    <string name="runtime">Runtime : </string>
+    <string name="gener">Gener :</string>
+    <string name="director">Director :</string>
+    <string name="actor">Actor :</string>
+    <string name="plot">Plot</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="something_went_wrong_try_again_later">Something went wrong try again later</string>
+    <string name="please_wait_loading_the_details">Please wait loading the details</string>
+</resources>
